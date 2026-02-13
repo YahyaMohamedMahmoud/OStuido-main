@@ -156,7 +156,7 @@ body {
 
     .tagline {
         font-size: 13px;
-    bottom: 10px;
+    bottom: 110px;
 
         /* margin-top: 40px; */
         /* padding: 0 20px; */
@@ -184,7 +184,7 @@ body {
 } */
 #orbyte-canvas {
         padding: 0px;
-    bottom: 10px;
+    bottom: 110px;
 
 }
 }
