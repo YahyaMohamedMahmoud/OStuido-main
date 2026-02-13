@@ -155,8 +155,8 @@ body {
 
     .tagline {
         font-size: 13px;
-        margin-top: 40px;
-        padding: 0 20px;
+        /* margin-top: 40px; */
+        /* padding: 0 20px; */
     }
 }
 
@@ -172,13 +172,13 @@ body {
 
     .tagline {
         font-size: 11px;
-        margin-top: 0px;
+        /* margin-top: 0px; */
     }
-    .content .tagline {
+    /* .content .tagline {
     justify-self: end;
     padding-top: 0px;
     padding-bottom: 30px;
-}
+} */
 #orbyte-canvas {
         padding: 0px;
 }
