@@ -9,7 +9,7 @@
     let introStartTime = null;
 
     const PARTICLE_COUNT = 600;
-    const DOT_SIZE       = 0.80;   // نقط صغيرة
+    const DOT_SIZE       = 0.85;   // نقط صغيرة
     const MOUSE_RADIUS   = 100;
     const REPEL_STRENGTH = 80;
     const ROTATION_SPEED = 0.25;
@@ -53,7 +53,7 @@ function resize() {
     centerY = height / 2;
 
     if (width <= 600) {
-      radius = Math.min(width, height) * 0.60;
+      radius = Math.min(width, height) * 0.70;
     }else if (width <= 767) {
   
         radius = Math.min(width, height) * 0.40;
