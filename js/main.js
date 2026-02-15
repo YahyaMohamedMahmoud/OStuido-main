@@ -53,7 +53,7 @@ function resize() {
     centerY = height / 2;
 
     if (width <= 600) {
-      radius = Math.min(width, height) * 0.65;
+      radius = Math.min(width, height) * 0.63;
     }else if (width <= 767) {
   
         radius = Math.min(width, height) * 0.40;
