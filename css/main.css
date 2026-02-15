@@ -96,7 +96,7 @@ font-family: 'Poppins';
 }
 
 .tagline {
-    font-size: 14px;
+    font-size: 16px;
     color: black;
     line-height: 1.6;
      animation: fadeTag 1.4s ease forwards;
@@ -106,17 +106,6 @@ font-family: 'Poppins';
     bottom: 15px;
     font-weight: 400;
     text-align: center;
-}
-.tagline span {
-    font-style: italic;
-
-}
-
-.tagline strong {
-    color: #1a1a1a;
-}
-.tagline-mobile {
-    display: none;
 }
 
 
@@ -188,14 +177,8 @@ font-family: 'Poppins';
   
 
     .tagline {
-        display: none;
         font-size: 11px;
         /* margin-top: 0px; */
-    }
-      .tagline-mobile {
-        display: block;
-        font-size: 12px;
-        width: 80%;
     }
     /* .content .tagline {
     justify-self: end;
